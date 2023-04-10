@@ -1,0 +1,5 @@
+Chức năng đã làm được: 
+-CURD product, category, user
+-Login, Register
+-Protected route
+-Pagination, sort, search product ở admin page
